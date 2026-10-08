@@ -163,7 +163,7 @@ A Flask-based web application designed for early glaucoma screening using retina
 
 ### 🔗 Repository
 
-**https://github.com/arivazhagan-m/glauco-vision**
+https://github.com/Arivu-2005/glucovision
 
 ### 🏆 Research
 
@@ -193,8 +193,9 @@ A responsive platform connecting customers with farm products through a simple o
 
 ### 🔗 Repository
 
-**https://github.com/arivazhagan-m/mann-vaasam**
+https://github.com/Arivu-2005/mann-vaasam
 
+https://arivu-2005.github.io/mann-vaasam/
 ---
 
 ## 👥 03 — EMPLOYEE MANAGEMENT SYSTEM
@@ -223,7 +224,9 @@ DELETE
 
 ### 🔗 Repository
 
-**https://github.com/arivazhagan-m/employee-management-system**
+https://github.com/Arivu-2005/employee-management-system
+
+https://arivu-2005.github.io/employee-management-system/
 
 ---
 
@@ -249,7 +252,9 @@ A Python application that simulates common ATM operations.
 
 ### 🔗 Repository
 
-**https://github.com/arivazhagan-m/python-bank-atm-system**
+https://github.com/Arivu-2005/securebank-atm-simulator
+
+https://arivu-2005.github.io/securebank-atm-simulator/
 
 ---
 
