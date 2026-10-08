@@ -1,300 +1,417 @@
-# 🚀 FEATURED PROJECTS
-
 <div align="center">
 
-### ⚡ Selected Work • AI • Full Stack • Python
+<!-- HERO -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=70&text=PROJECT%20LAB&fontSize=30&fontColor=A78BFA&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E1B4B,75:312E81,100:7C3AED&height=250&section=header&text=ARIVAZHAGAN%20M&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=850&height=60&lines=Building+AI-Powered+Web+Applications;Python+%7C+Flask+%7C+JavaScript+%7C+MongoDB;Computer+Vision+%7C+Vision+Transformers;Frontend+%7C+Backend+%7C+Full+Stack;Turning+Ideas+Into+Real+Software" alt="Typing animation"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PYTHON-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-Engineer-7C3AED?style=for-the-badge&logo=googlebard&logoColor=white"/>
+<img src="https://img.shields.io/badge/FLASK-Backend-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FULL%20STACK-Developer-2563EB?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://github.com/arivazhagan-m">
+<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/arivazhagan-m">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://arivazhagan-m.github.io">
+<img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=arivazhagan-m&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👁️ 01 — GLAUCO VISION
+# 🧑‍💻 WHO AM I?
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  ARIVAZHAGAN M                                              │
+│                                                             │
+│  Python Developer  •  AI Engineer  •  Full Stack Developer │
+│                                                             │
+│  📍 Chennai, Tamil Nadu                                    │
+│  🎓 B.Tech Information Technology                           │
+│  📊 CGPA: 7.6 / 10                                         │
+│  🔬 ICICCS 2026 Research Presenter                          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+I'm an **Information Technology graduate** passionate about building practical software products using **Python, Flask, JavaScript, databases, and AI/ML technologies**.
+
+I enjoy working across the complete development lifecycle — from designing interfaces and writing backend logic to integrating AI models into usable applications.
+
+### ⚡ What I Build
+
+- 🤖 AI-powered web applications
+- 🐍 Python & Flask applications
+- 🌐 Responsive frontend interfaces
+- 🧠 Computer Vision solutions
+- 🔬 Machine Learning applications
+- 🗄️ Database-driven systems
+- 🛒 E-commerce platforms
+- ⚙️ CRUD & OOP applications
+
+---
+
+# 🧬 MY TECH UNIVERSE
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20%2B%20COMPUTER%20VISION-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VISION%20TRANSFORMER-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+
+<br/><br/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react" />
+
+<br/><br/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=python,flask,nodejs" />
+
+<br/><br/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+<br/><br/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
-> 🧠 **Early Glaucoma Detection System using Vision Transformer**
+---
 
-A Flask-based AI web application for retinal image analysis and early glaucoma screening using a **Vision Transformer (ViT)**.
+# 🤖 AI / ML
 
-### ✨ Project Highlights
+<div align="center">
+
+<img src="https://img.shields.io/badge/Computer%20Vision-Applied-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vision%20Transformer-ViT-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Python-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model%20Deployment-Flask-000000?style=for-the-badge"/>
+
+</div>
+
+### 🧠 AI Focus
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│              👁️  RETINAL IMAGE                     │
-│                      ↓                              │
-│                IMAGE PROCESSING                    │
-│                      ↓                              │
-│              🧠 VISION TRANSFORMER                 │
-│                      ↓                              │
-│               AI PREDICTION                        │
-│                      ↓                              │
-│             📊 RESULT DISPLAY                      │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+Computer Vision
+       ↓
+Medical Image Analysis
+       ↓
+Vision Transformers
+       ↓
+Machine Learning
+       ↓
+Python
+       ↓
+Flask API
+       ↓
+AI-Powered Web Application
 ```
 
-### 🛠️ Technology
+---
 
-`Python` `Flask` `Vision Transformer` `HTML5` `CSS3` `JavaScript`
+# 🚀 FEATURED PROJECTS
+
+## 👁️ 01 — GLAUCO VISION
+
+### `AI + Computer Vision + Flask`
+
+> **Early Glaucoma Detection System using Vision Transformer**
+
+A Flask-based web application designed for early glaucoma screening using retinal images and a **Vision Transformer (ViT)** model.
 
 ### 🔥 Features
 
 - 📷 Retinal image upload
-- 🧠 Vision Transformer-based analysis
-- 🔬 Glaucoma prediction
+- 🧠 Vision Transformer analysis
+- 🔬 Automated glaucoma prediction
 - ⚡ Flask backend
 - 🌐 Responsive web interface
 - 📊 Prediction result display
 
-### 🔗 Project Links
+### 🛠️ Stack
 
-<div align="center">
+`Python` `Flask` `Vision Transformer` `HTML` `CSS` `JavaScript`
 
-<a href="https://github.com/arivazhagan-m/glauco-vision">
-<img src="https://img.shields.io/badge/💻%20GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github"/>
-</a>
+### 🔗 Repository
 
-<a href="https://github.com/arivazhagan-m/glauco-vision">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-NOT%20DEPLOYED-6B7280?style=for-the-badge"/>
-</a>
+**https://github.com/arivazhagan-m/glauco-vision**
 
-</div>
+### 🏆 Research
 
-🏆 **Research:** Presented at **ICICCS 2026**
+**Presented at ICICCS 2026**
 
 ---
 
-# 🌱 02 — MANN-VAASAM
+## 🌱 02 — MANN-VAASAM
 
-<div align="center">
+### `E-Commerce + Web Development`
 
-<img src="https://img.shields.io/badge/ECOMMERCE-16A34A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FARM%20TO%20HOME-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WHATSAPP%20ORDERING-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+> **Farm-to-Home E-Commerce Platform**
 
-</div>
-
-> 🌾 **Farm-to-Home E-Commerce Platform**
-
-A responsive e-commerce platform designed to connect customers with farm products through a simple product browsing and WhatsApp ordering experience.
-
-### ✨ Project Flow
-
-```text
-        🌾 FARM PRODUCTS
-               │
-               ▼
-       ┌─────────────────┐
-       │  PRODUCT CATALOG │
-       └────────┬────────┘
-                │
-                ▼
-        🛒 PRODUCT VIEW
-                │
-                ▼
-        📱 WHATSAPP ORDER
-                │
-                ▼
-        👨‍🌾 CUSTOMER ↔ FARM
-```
-
-### 🛠️ Technology
-
-`HTML5` `CSS3` `JavaScript` `MongoDB`
+A responsive platform connecting customers with farm products through a simple ordering experience.
 
 ### 🔥 Features
 
 - 🛒 Product presentation
-- 📱 Responsive design
+- 📱 Responsive interface
 - 🌾 Farm-to-home concept
 - 💬 WhatsApp ordering
 - 🗄️ MongoDB integration
-- 📲 Mobile-friendly interface
 
-### 🔗 Project Links
+### 🛠️ Stack
 
-<div align="center">
+`HTML5` `CSS3` `JavaScript` `MongoDB`
 
-<a href="https://github.com/arivazhagan-m/mann-vaasam">
-<img src="https://img.shields.io/badge/💻%20GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github"/>
-</a>
+### 🔗 Repository
 
-<a href="https://mann-vaasam-7kss.vercel.app/">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-OPEN%20WEBSITE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
+**https://github.com/arivazhagan-m/mann-vaasam**
 
 ---
 
-# 👥 03 — EMPLOYEE MANAGEMENT SYSTEM
+## 👥 03 — EMPLOYEE MANAGEMENT SYSTEM
 
-<div align="center">
+### `Python + OOP + CRUD`
 
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CRUD-6366F1?style=for-the-badge"/>
+> **Employee Record Management Application**
 
-</div>
-
-> 👥 **Employee Record Management Application**
-
-A Python application for managing employee records using **Object-Oriented Programming** and CRUD operations.
-
-### ✨ CRUD Architecture
-
-```text
-             EMPLOYEE SYSTEM
-                    │
-       ┌────────────┼────────────┐
-       ↓            ↓            ↓
-    CREATE         READ        UPDATE
-       │            │            │
-       └────────────┼────────────┘
-                    ↓
-                 DELETE
-                    │
-                    ↓
-            EMPLOYEE RECORDS
-```
-
-### 🛠️ Technology
-
-`Python` `OOP` `CRUD`
+A Python application for managing employee records using object-oriented programming and CRUD operations.
 
 ### 🔥 Features
 
-- ➕ Add employee
-- 👀 View employee
-- ✏️ Update employee
-- 🗑️ Delete employee
-- 📋 Structured employee records
+```text
+CREATE
+   ↓
+READ
+   ↓
+UPDATE
+   ↓
+DELETE
+```
 
-### 🔗 Project Links
+### 🛠️ Stack
 
-<div align="center">
+`Python` `OOP` `CRUD`
 
-<a href="https://github.com/arivazhagan-m/employee-management-system">
-<img src="https://img.shields.io/badge/💻%20GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github"/>
-</a>
+### 🔗 Repository
 
-<a href="https://github.com/arivazhagan-m/employee-management-system">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-NOT%20DEPLOYED-6B7280?style=for-the-badge"/>
-</a>
-
-</div>
+**https://github.com/arivazhagan-m/employee-management-system**
 
 ---
 
-# 🏦 04 — PYTHON BANK ATM SYSTEM
+## 🏦 04 — PYTHON BANK ATM SYSTEM
 
-<div align="center">
+### `Python + OOP`
 
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BANKING%20SYSTEM-2563EB?style=for-the-badge"/>
+> **Console-Based Banking Simulation**
 
-</div>
-
-> 🏦 **Console-Based Banking Simulation**
-
-A Python-based ATM simulation implementing common banking operations using Object-Oriented Programming.
-
-### ✨ ATM Flow
-
-```text
-             🔐 PIN LOGIN
-                  │
-                  ▼
-        ┌─────────────────────┐
-        │     ATM DASHBOARD   │
-        └──────────┬──────────┘
-                   │
-       ┌───────────┼───────────┐
-       ↓           ↓           ↓
-   💰 BALANCE   💵 DEPOSIT  💸 WITHDRAW
-       │           │           │
-       └───────────┼───────────┘
-                   ↓
-            🧾 TRANSACTIONS
-```
-
-### 🛠️ Technology
-
-`Python` `Object-Oriented Programming`
+A Python application that simulates common ATM operations.
 
 ### 🔥 Features
 
 - 🔐 PIN authentication
 - 💰 Balance inquiry
-- 💵 Deposit
-- 💸 Withdrawal
+- 💸 Cash withdrawal
+- 💵 Cash deposit
 - 🧾 Transaction handling
 
-### 🔗 Project Links
+### 🛠️ Stack
 
-<div align="center">
+`Python` `Object-Oriented Programming`
 
-<a href="https://github.com/arivazhagan-m/python-bank-atm-system">
-<img src="https://img.shields.io/badge/💻%20GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github"/>
-</a>
+### 🔗 Repository
 
-<a href="https://securebank-atm-simulator.vercel.app/">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-OPEN%20WEBSITE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
+**https://github.com/arivazhagan-m/python-bank-atm-system**
 
 ---
 
-# 🎮 3D PROJECT UNIVERSE
+# 💼 EXPERIENCE
 
-<div align="center">
+## Frontend Developer Intern
+
+### Vita Rail Services Pvt. Ltd.
+
+📍 Chennai, Tamil Nadu
 
 ```text
-                         ╔════════════════════╗
-                         ║    ARIVAZHAGAN     ║
-                         ║    PROJECT LAB     ║
-                         ╚══════════╦═════════╝
-                                    ║
-             ╔══════════════════════╬══════════════════════╗
-             ║                      ║                      ║
-             ▼                      ▼                      ▼
-       ╔═══════════╗          ╔═══════════╗          ╔═══════════╗
-       ║  👁️ AI    ║          ║ 🌱 WEB    ║          ║ 🐍 PYTHON ║
-       ║  VISION   ║          ║  ECOMMERCE║          ║  SYSTEMS  ║
-       ╚═════╦═════╝          ╚═════╦═════╝          ╚═════╦═════╝
-             ║                      ║                      ║
-             ▼                      ▼                      ▼
-       Vision Transformer       MongoDB              OOP / CRUD
-             ║                      ║                      ║
-             ▼                      ▼                      ▼
-          FLASK                 WEB APP             APPLICATIONS
+HTML
+  +
+CSS
+  +
+JavaScript
+  +
+Bootstrap
+  ↓
+Responsive Web Applications
 ```
 
+### Responsibilities
+
+- Developed responsive web pages.
+- Worked with HTML, CSS, JavaScript and Bootstrap.
+- Improved UI quality and responsiveness.
+- Assisted with testing and debugging.
+- Worked on frontend development and usability improvements.
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+<div align="center">
+
+| 🏆 | Achievement |
+|---|---|
+| 🔬 | Glauco Vision research presented at ICICCS 2026 |
+| 🤖 | Built Vision Transformer-based retinal screening application |
+| 💻 | Frontend Developer Intern at Vita Rail Services Pvt. Ltd. |
+| 🎓 | B.Tech Information Technology — CGPA 7.6/10 |
+| 🚀 | Built projects across AI, e-commerce and Python systems |
+
 </div>
 
 ---
 
-# ⚡ PROJECT STACK
+# 📚 CURRENTLY LEARNING
 
 <div align="center">
 
-| Project | Domain | Main Technology | GitHub | Live |
-|:---|:---|:---|:---:|:---:|
-| 👁️ **Glauco Vision** | AI / Computer Vision | Python + Flask + ViT | [View](https://github.com/arivazhagan-m/glauco-vision) | — |
-| 🌱 **Mann-Vaasam** | E-Commerce | HTML + JS + MongoDB | [View](https://github.com/arivazhagan-m/mann-vaasam) | [Open](https://mann-vaasam-7kss.vercel.app/) |
-| 👥 **Employee Management** | Python / CRUD | Python + OOP | [View](https://github.com/arivazhagan-m/employee-management-system) | — |
-| 🏦 **Bank ATM System** | Banking / OOP | Python | [View](https://github.com/arivazhagan-m/python-bank-atm-system) | [Open](https://securebank-atm-simulator.vercel.app/) |
+<img src="https://img.shields.io/badge/Advanced%20Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-Practice-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-Exploring-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vision%20Transformers-Exploring-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend%20Engineering-Improving-2563EB?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🎯 CAREER FOCUS
+
+```text
+                    ┌────────────────────┐
+                    │    ARIVAZHAGAN     │
+                    └─────────┬──────────┘
+                              │
+             ┌────────────────┼────────────────┐
+             ↓                ↓                ↓
+        PYTHON / AI       FULL STACK       SOFTWARE
+             │                │                │
+             ↓                ↓                ↓
+          Flask           Frontend         Backend
+             │             React             APIs
+             ↓                │                │
+        Computer Vision       ↓                ↓
+             │            Databases        Systems
+             └────────────────┼────────────────┘
+                              ↓
+                     REAL-WORLD PRODUCTS
+```
+
+### Open to
+
+- 🐍 Python Developer
+- ⚙️ Backend Developer
+- 💻 Software Engineer
+- 🌐 Full Stack Developer
+- 🤖 AI / ML Engineer
+- 🎨 Frontend Developer
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arivazhagan-m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=FFFFFF" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arivazhagan-m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" height="180"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=arivazhagan-m&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/arivazhagan-m/arivazhagan-m/output/github-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+# 📈 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arivazhagan-m&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🏅 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arivazhagan-m&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+
+</div>
+
+---
+
+# 🔗 CONNECT WITH ME
+
+<div align="center">
+
+<a href="mailto:ariva2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-ariva2%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/arivazhagan-m">
+<img src="https://img.shields.io/badge/LinkedIn-Arivazhagan%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/arivazhagan-m">
+<img src="https://img.shields.io/badge/GitHub-arivazhagan--m-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://arivazhagan-m.github.io">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </div>
 
@@ -302,8 +419,12 @@ A Python-based ATM simulation implementing common banking operations using Objec
 
 <div align="center">
 
-### 🚀 BUILDING • TESTING • DEPLOYING • LEARNING
+## ⚡ BUILD • LEARN • SHIP • REPEAT
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:312E81,70:7C3AED,100:4F46E5&height=120&section=footer"/>
+### *Turning ideas into intelligent software.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:4F46E5,75:312E81,100:0F172A&height=150&section=footer"/>
 
 </div>
