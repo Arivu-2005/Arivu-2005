@@ -1,13 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:312E81,100:7C3AED&height=260&section=header&text=ARIVAZHAGAN%20M&fontSize=56&fontColor=FFFFFF&fontAlignY=40&desc=Python%20Developer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=62&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:312E81,100:7C3AED&height=270&section=header&text=ARIVAZHAGAN%20M&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=Python%20Developer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=63&animation=twinkling" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=850&height=60&lines=Building+AI-Powered+Web+Applications;Python+%7C+Flask+%7C+JavaScript+%7C+MongoDB;Computer+Vision+%7C+Vision+Transformers;Turning+Ideas+Into+Real+Software" alt="Typing animation"/>
-
-<br/>
-
-<!-- 3D ORBIT (animated SVG, lives in /assets) -->
-<img src="./assets/3d-orbit.svg" alt="3D tech orbit" width="100%"/>
 
 <br/>
 
@@ -199,8 +194,6 @@ Responsive store connecting customers with farm products.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arivazhagan-m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" height="180"/>
 
 <img src="https://streak-stats.demolab.com?user=arivazhagan-m&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA"/>
-
-<img src="https://raw.githubusercontent.com/arivazhagan-m/arivazhagan-m/output/github-snake-dark.svg" width="100%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arivazhagan-m&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
